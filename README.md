@@ -2,7 +2,7 @@
  TEXT EDITOR
 </h1>
 
-<h6>simple text editor to practice the tkinter library of graphical interfaces in python
+<h6 align="center">simple text editor to practice the tkinter library of graphical interfaces in python
 </h6>
 
 <p align="center"> 
